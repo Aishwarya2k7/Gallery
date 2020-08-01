@@ -1,2 +1,3 @@
 # Gallery
-A galley website using bootstrap and handlebars library.
+---
+A gallery website using bootstrap and handlebars library.
